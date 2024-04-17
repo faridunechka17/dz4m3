@@ -1,0 +1,23 @@
+[
+  {
+  "name": "Andry Garfild",
+  "age": 18,
+  "photo": "https://i.playground.ru/e/rjdkqKBOhxUYUXVEsRkt5g.webp?1200x1200"
+},{
+  "name": "Tor",
+  "age": "25",
+  "photo": "https://cdnn21.img.ria.ru/images/07e4/0b/17/1585982208_209:0:1141:932_1920x0_80_0_0_0864085575c3f7e62a28af4453c1dff0.jpg"
+},{
+  "name": "Robert D.M",
+  "age": 34,
+  "photo": "https://masterpiecer-images.s3.yandex.net/bc63618978a811eeb4c3963c1ee369ba:upscaled"
+},{
+  "name": "Kris Avans",
+  "age": 45,
+  "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT35cXrGKpmrhF7zLaCwMxwptuqWe-v2fRK3-Lwp-W-6g&s"
+},{
+  "name": "Natali Romanoff",
+  "age": 22,
+  "photo": "https://upload.wikimedia.org/wikipedia/ru/thumb/f/f6/Scarlett_Johansson_as_Black_Widow.jpg/230px-Scarlett_Johansson_as_Black_Widow.jpg"
+}
+]
